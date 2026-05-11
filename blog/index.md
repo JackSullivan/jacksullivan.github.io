@@ -1,5 +1,4 @@
 ---
-layout: blog-list
-title: Blog
-weight: 2
+layout: blog
+title: Writing
 ---
